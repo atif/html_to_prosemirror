@@ -9,7 +9,7 @@ RSpec.describe HtmlToProsemirror::Nodes::HardBreak do
           type: 'text',
           text: 'Hard ',
         },{
-          type: 'hard_break'
+          type: 'hardBreak'
         },{
           type: 'text',
           text: 'Break',
